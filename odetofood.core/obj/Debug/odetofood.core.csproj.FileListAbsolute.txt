@@ -1,0 +1,12 @@
+C:\Users\Topit\Documents\GitHub\Odetofood\odetofood\odetofood.core\bin\Debug\odetofood.core.dll
+C:\Users\Topit\Documents\GitHub\Odetofood\odetofood\odetofood.core\bin\Debug\odetofood.core.pdb
+C:\Users\Topit\Documents\GitHub\Odetofood\odetofood\odetofood.core\obj\Debug\odetofood.core.csprojAssemblyReference.cache
+C:\Users\Topit\Documents\GitHub\Odetofood\odetofood\odetofood.core\obj\Debug\odetofood.core.csproj.CoreCompileInputs.cache
+C:\Users\Topit\Documents\GitHub\Odetofood\odetofood\odetofood.core\obj\Debug\odetofood.core.dll
+C:\Users\Topit\Documents\GitHub\Odetofood\odetofood\odetofood.core\obj\Debug\odetofood.core.pdb
+C:\Users\Topit\Documents\GitHub\Odetofood\odetofood.core\bin\Debug\odetofood.core.dll
+C:\Users\Topit\Documents\GitHub\Odetofood\odetofood.core\bin\Debug\odetofood.core.pdb
+C:\Users\Topit\Documents\GitHub\Odetofood\odetofood.core\obj\Debug\odetofood.core.csprojAssemblyReference.cache
+C:\Users\Topit\Documents\GitHub\Odetofood\odetofood.core\obj\Debug\odetofood.core.csproj.CoreCompileInputs.cache
+C:\Users\Topit\Documents\GitHub\Odetofood\odetofood.core\obj\Debug\odetofood.core.dll
+C:\Users\Topit\Documents\GitHub\Odetofood\odetofood.core\obj\Debug\odetofood.core.pdb
